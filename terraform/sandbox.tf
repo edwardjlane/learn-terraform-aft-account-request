@@ -15,7 +15,7 @@ module "sandbox2" {
   }
 
   change_management_parameters = {
-    change_requested_by = "Edward Lane"
+    change_requested_by = "Ed Lane"
     change_reason       = "Testing step functions"
   }
 
