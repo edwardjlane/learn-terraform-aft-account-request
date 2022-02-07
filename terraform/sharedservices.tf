@@ -3,7 +3,7 @@ module "sharedsvcs" {
 
   control_tower_parameters = {
     AccountEmail              = "edwardjlane22+shrdsvcs@gmail.com"
-    AccountName               = "ed-shrdsvcs-aft-test"
+    AccountName               = "ed-shrdsvcs"
     ManagedOrganizationalUnit = "Shared Services"
     SSOUserEmail              = "edwardjlane22+shrdsvcs@gmail.com"
     SSOUserFirstName          = "ed-shrdsvcs"
